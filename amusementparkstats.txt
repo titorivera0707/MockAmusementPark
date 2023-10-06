@@ -1,0 +1,36 @@
+The Statistics for XXX
+
+Statistics for Attraction RIDE1
+The total number that got onto the ride is 1140
+There were 780 Fast Riders who got on waiting an average of 1.00 minutes
+There were 360 Normal Riders who got on waiting an average of 19.74 minutes
+There were 1140 Total Riders who got on waiting an average of 6.92 minutes
+
+
+Statistics for Attraction RIDE2
+The total number that got onto the ride is 900
+There were 600 Fast Riders who got on waiting an average of 6.00 minutes
+There were 300 Normal Riders who got on waiting an average of 22.17 minutes
+There were 900 Total Riders who got on waiting an average of 11.39 minutes
+
+
+Statistics for Attraction RIDE3
+The total number that got onto the ride is 1020
+There were 720 Fast Riders who got on waiting an average of 1.00 minutes
+There were 300 Normal Riders who got on waiting an average of 22.17 minutes
+There were 1020 Total Riders who got on waiting an average of 7.23 minutes
+
+
+Statistics for Attraction RIDE4
+The total number that got onto the ride is 960
+There were 660 Fast Riders who got on waiting an average of 5.61 minutes
+There were 300 Normal Riders who got on waiting an average of 21.62 minutes
+There were 960 Total Riders who got on waiting an average of 10.62 minutes
+
+
+Statistics for Attraction RIDE5
+The total number that got onto the ride is 1080
+There were 720 Fast Riders who got on waiting an average of 3.31 minutes
+There were 360 Normal Riders who got on waiting an average of 19.74 minutes
+There were 1080 Total Riders who got on waiting an average of 8.79 minutes
+
