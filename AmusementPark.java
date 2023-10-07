@@ -119,7 +119,6 @@ public class AmusementPark{
             printwrtr.println(String.format("There were %d Fast Riders who got on waiting an average of %.2f minutes", tempAttraction.getTotalFast(), (double)(tempAttraction.getTotalAverageFast()/tempAttraction.getTotalFast())));
             printwrtr.println(String.format("There were %d Normal Riders who got on waiting an average of %.2f minutes", tempAttraction.getTotalNormal(),(double)(tempAttraction.getTotalAverageNormal()/tempAttraction.getTotalNormal())));
             printwrtr.println(String.format("There were %d Total Riders who got on waiting an average of %.2f minutes\n\n", tempAttraction.getAlGotOnRiderSize(),tempAttraction.getTotalAverage()/tempAttraction.getAlGotOnRiderSize()));
-
         }
     }
 
