@@ -1,4 +1,5 @@
-
+import java.util.*;
+import java.io.*;
 
 public class NormalRider extends Rider implements TicketPrice{
 
@@ -10,7 +11,7 @@ public class NormalRider extends Rider implements TicketPrice{
     }
 
     public NormalRider(int onlineTime) {
-        super();
+        super(onlineTime);
         setType();
         setTicketPrice();
     }

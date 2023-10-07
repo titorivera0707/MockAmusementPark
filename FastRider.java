@@ -10,7 +10,7 @@ public class FastRider extends Rider implements TicketPrice{
     }
 
     public FastRider(int onlineTime) {
-        super();
+        super(onlineTime);
         setType();
         setTicketPrice();
     }

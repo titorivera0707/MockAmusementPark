@@ -27,8 +27,8 @@ public abstract class Rider{
     }
 
     public void setEndOnlineTime(int endOnlineTime) {
-        this.endOnlineTime = endOnlineTime;
         timeOnline += endOnlineTime - startOnlineTime;
+        this.endOnlineTime = endOnlineTime;
     }
 
     public int getTimeOnline() {
